@@ -84,9 +84,9 @@ class LlvmAT10 < Formula
   bottle do
     cellar :any
     root_url "https://storage.googleapis.com/sourcegraph-homebrew-bottles"
-    sha256 "d8ad1f1c539c4c643017882878d60bc3a45b7e4a67e4d697ac071d20926d121c" => :catalina
-    sha256 "7a5600152cc5d8c7043b9c92db2194e757e17cae6f9e0a498468c3921efb9770" => :mojave
-    sha256 "9ce34ed1a0be220267b76e8c81d7b4955cca470957a4f921fe7e380b0a81b67f" => :high_sierra
+    sha256 "f0db4362c43085d4f4c66bde835907ea7a7a251e4f1ab9400f3c562e9c4bf5eb" => :catalina
+    sha256 "a479e0e9d3c5e43446bcf81a7043e8afdc26d8726ea5fe048b7379f146ea2769" => :mojave
+    sha256 "d94d0f014b2fe15edc871f90b73ca46d255d1d05c6050810a71dee6835c90ee0" => :high_sierra
   end
 
   # Clang cannot find system headers if Xcode CLT is not installed
