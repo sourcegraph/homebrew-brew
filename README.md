@@ -1,9 +1,9 @@
-# Beyang Tap
+# Sourcegraph Homebrew taps
 
 ## How do I install these formulae?
-`brew install beyang/tap/<formula>`
+`brew install sourcegraph/brew/<formula>`
 
-Or `brew tap beyang/tap` and then `brew install <formula>`.
+Or `brew tap sourcegraph/brew` and then `brew install <formula>`.
 
 ## Documentation
 `brew help`, `man brew` or check [Homebrew's documentation](https://docs.brew.sh).
